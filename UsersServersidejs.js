@@ -1,3 +1,4 @@
+// this js file handles all server side logic
 var express = require('express');
 var app = express();
 var mysql = require('mysql');
