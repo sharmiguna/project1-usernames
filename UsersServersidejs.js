@@ -1,4 +1,3 @@
-// adding comment
 // this js file handles all server side logic
 var express = require('express');
 var app = express();
